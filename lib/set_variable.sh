@@ -1,0 +1,9 @@
+#!/bin/bash
+BLUE="\033[1;34m"
+RED="\033[0;31m"
+NC1="\033[0m"
+image="registry.ipt-gitlab:8081/sit-develop-tool/gitlab-ci-setup/gitlab-runner"
+version="11.3.1"
+gitlab_server="http://ipt-gitlab.ies.inventec:8081"
+rigistry_server="http://registry.ipt-gitlab:8081"
+line="=========="
